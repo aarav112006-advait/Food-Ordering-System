@@ -1056,54 +1056,7 @@ This project demonstrates practical knowledge of:
 
 ---
 
-# 📸 Screenshots
 
-Screenshots are intentionally optional.
-
-When available, add them under:
-
-```text
-docs/
-└── screenshots/
-    ├── home.png
-    ├── restaurant-list.png
-    ├── restaurant-detail.png
-    ├── cart.png
-    ├── checkout.png
-    ├── order-tracker.png
-    ├── recommendations.png
-    └── reviews.png
-```
-
-The README is fully usable without screenshots.
-
----
-
-# 🤝 Contributing
-
-1. Fork the repository.
-2. Create a feature branch.
-
-```bash
-git checkout -b feature/your-feature
-```
-
-3. Commit your changes.
-
-```bash
-git add .
-git commit -m "Add your feature"
-```
-
-4. Push your branch.
-
-```bash
-git push origin feature/your-feature
-```
-
-5. Open a Pull Request.
-
----
 
 # 📜 License
 
@@ -1112,6 +1065,9 @@ This project is licensed under the **MIT License**.
 See [`LICENSE`](LICENSE) for details.
 
 ---
+
+
+
 
 <p align="center">
 
